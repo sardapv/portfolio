@@ -6,9 +6,8 @@
 
 > Learn for free
 
-### 🏠 [Homepage](https://github.com/yahu1031/docs-site#readme)
+### 🏠 [Homepage](https://sardapv.github.io/portfolio)
 
-### ✨ [Demo](https://freelearn.vercel.app/)
 
 ## Install
 
