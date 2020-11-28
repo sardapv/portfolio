@@ -5,7 +5,7 @@
   Github Action Flow <img alt="Github Action Flow" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
 </p>
 
-> Learn for free
+> PLace where I share about me, my blogs and notes
 
 ### 🏠 [Homepage](https://sardapv.github.io/portfolio)
 
