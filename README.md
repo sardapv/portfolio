@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to My Portfolio</h1>
 <p>
-  <img alt="Version" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
+  Travis CI <img alt="Version" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
 </p>
 
 > Learn for free
