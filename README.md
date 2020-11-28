@@ -1,8 +1,8 @@
 
 <h1 align="center">Welcome to My Portfolio</h1>
 <p>
-  Travis CI <img alt="Version" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
-  Github Action Flow ![build](https://github.com/sardapv/portfolio/workflows/build/badge.svg?branch=main)
+  Travis CI <img alt="Travis CI build" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
+  Github Action Flow <img alt="Github Action Flow" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
 </p>
 
 > Learn for free
