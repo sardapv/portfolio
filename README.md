@@ -2,6 +2,7 @@
 <h1 align="center">Welcome to My Portfolio</h1>
 <p>
   Travis CI <img alt="Version" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
+  ![Github Action Build](https://github.com/sardapv/portfolio/workflows/build/badge.svg?branch=main)
 </p>
 
 > Learn for free
