@@ -1,35 +1,44 @@
-https://travis-ci.com/sardapv/portfolio.svg?branch=main
 
-# Website
+<h1 align="center">Welcome to My Portfolio</h1>
+<p>
+  <img alt="Version" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
+</p>
 
-This website is built using [Docusaurus 2](https://v2.docusaurus.io/), a modern static website generator.
+> Learn for free
 
-## Installation
+### 🏠 [Homepage](https://github.com/yahu1031/docs-site#readme)
 
-```console
-yarn install
+### ✨ [Demo](https://freelearn.vercel.app/)
+
+## Install
+
+```sh
+npm install
 ```
 
-## Local Development
+## Usage
 
-```console
-yarn start
+```sh
+npm run start
 ```
 
-This command starts a local development server and open up a browser window. Most changes are reflected live without having to restart the server.
+## Run tests
 
-## Build
+There are no test files to test.
 
-```console
-yarn build
+```sh
+npm run test
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+## Author
 
-## Deployment
+👤 **Pranav Sarda**
 
-```console
-GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
-```
+* Linkedin: [@sardapv](https://www.linkedin.com/in/sardapv/)
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+## Show your support
+
+Give a ⭐️ if you like my work!
+
+***
+<p align="center"> Made with 💚, From Pranav. </p> <br />
