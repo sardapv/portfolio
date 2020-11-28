@@ -1,5 +1,5 @@
-
-<h1 align="center">Welcome to My Portfolio</h1>
+[![Build Status](https://travis-ci.com/sardapv/portfolio.svg?branch=main)](https://travis-ci.com/sardapv/portfolio)
+<h1 align="center">Welcome to My Portfolio</h1>[![Build Status](https://travis-ci.com/sardapv/portfolio.svg?branch=main)](https://travis-ci.com/sardapv/portfolio)
 <p>
   Travis CI <img alt="Travis CI build" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
   Github Action Flow <img alt="Github Action Flow" src="https://travis-ci.com/sardapv/portfolio.svg?branch=main" />
